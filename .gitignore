@@ -1,4 +1,4 @@
-.vanna_venv/
+.venv/
 .env
 *.sqlite
 *.sqlite3
