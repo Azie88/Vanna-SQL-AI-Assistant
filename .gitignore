@@ -1,3 +1,5 @@
 .vanna_venv/
 .env
 *.sqlite
+*.sqlite3
+*.bin
