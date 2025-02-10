@@ -1,4 +1,4 @@
-# Vanna AI SQL co-pilot
+# Vanna-SQL-AI-Assistant
 ![VANNA.AI Logo](https://github.com/user-attachments/assets/89359bac-dd4c-4a27-b566-6e6f1c803151)
 
 *Automating SQL Query Generation with Vanna.AI*
