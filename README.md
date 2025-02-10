@@ -27,7 +27,9 @@ Vanna.AI is an open-source AI tool designed to translate natural language querie
 
 1️⃣ You need to have [`Python 3`](https://www.python.org/) on your system.
 
+
 2️⃣ Clone this repository: `git clone https://github.com/Azie88/Vanna-SQL-AI-Assistant.git`
+
 
 3️⃣ On your IDE, create A Virtual Environment and Install the required packages for the project:
 
@@ -47,15 +49,29 @@ Vanna.AI is an open-source AI tool designed to translate natural language querie
 
 **NB:** For MacOs users, please install `Xcode` if you have an issue.
 
+
 4️⃣ Sign up and Generate an API Key on [Vanna.ai](https://vanna.ai/)
+
 
 5️⃣ Set up a `.env` file in the project root and store your api key
 
         vanna_api_key=your_api_key_here
 
+
 6️⃣ Run the `Vanna_AI_Starter.py` to use vanna with the default sample database.
 
+
 ![Vanna Web App Demo](https://github.com/user-attachments/assets/a38b133c-74e8-4d5b-9c07-ce986cfb4ae4)
+
+## Use Vanna.ai free with local SQL database
+
+Run the `Vanna_Hosted.ipynb` notebook and follow the steps. Make sure you have a MySQL database and are running the MySQL server. Find out how to create one [here](https://github.com/Azie88/MySQL-Inventory-Database)
+
+Alternatively, you can connect any database of your own. Visit the [Vanna.ai](https://vanna.ai/) for instructions. Edit the code with your own database connection and training.
+
+## Use Vanna.ai with OPENAI API
+
+Create an [OPENAI API Key](https://openai.com/index/openai-api/) and run the `Vanna_OpenAI.ipynb` notebook to follow the steps. Edit the code with your own database connection and training.
 
 ## Contributions :handshake:
 
