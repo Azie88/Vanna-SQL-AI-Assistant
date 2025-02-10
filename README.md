@@ -55,7 +55,7 @@ Vanna.AI is an open-source AI tool designed to translate natural language querie
 
 6️⃣ Run the `Vanna_AI_Starter.py` to use vanna with the default sample database.
 
-
+![Vanna Web App Demo](https://github.com/user-attachments/assets/a38b133c-74e8-4d5b-9c07-ce986cfb4ae4)
 
 ## Contributions :handshake:
 
